@@ -2,7 +2,7 @@
 - I am a student in 3rd year pursuing Information Technology from Indian Institute of Information Technology Vadodara(IIITV).
 - 👀 I’m interested in UI/UX,Machine Learning,Artificial Intelligence.
 - 💬 Ask me about Web Development
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Data Science and OpenCV.
 - 📫 How to reach me hetmpatel1@gmail.com
 - ⚡ Fun fact Playing games and exploring new things.
 - Where you can find me -
