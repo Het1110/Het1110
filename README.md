@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Het1110
-- I am a student in 3rd year pursuing Computer Science Engineering from Indian Institute of Information Technology Vadodara(IIITV).
 - 👀 I’m interested in UI/UX,Machine Learning,Artificial Intelligence.
 - 💬 Ask me about Machine Learning.
 - 🌱 I’m currently learning Reinforcement Learning .
